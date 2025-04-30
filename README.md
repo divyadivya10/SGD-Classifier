@@ -58,6 +58,8 @@ print("Confusion Matrix:")
 print(cn)
 classification_report1=classification_report(y_test,y_pred)
 print(classification_report1)
+print("Name: Divya R")
+print("Reg no : 212222040040")
 
 
 
@@ -72,7 +74,8 @@ print(classification_report1)
 ## Confusion matrix
 ![image](https://github.com/user-attachments/assets/064daf9c-1a9f-4f93-a1e2-07892d6e339e)
 ## Classification report
-![image](https://github.com/user-attachments/assets/fbee3c30-051d-444d-99a9-dbb03f46fc24)
+![image](https://github.com/user-attachments/assets/2ff3c230-94d1-432a-882f-5b4e264b953f)
+
 
 
 ## Result:
